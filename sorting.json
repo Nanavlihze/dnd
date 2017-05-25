@@ -1,0 +1,178 @@
+{
+  "sorting_open_defined": {
+    "title": "<p>Phonics: Short Vowels</p>",
+    "directions": "<p>Say each word aloud. Then sort the words by their short-vowel sound. For words with two syllables, sort by the short-vowel sound in the first syllable.</p>",
+    "sfxPool": { "value": "pool1" },
+    "background": { "value": "yellow2" },
+    "sortingMode": { "value": "defined" },
+    "contentMode": { "value": "words" },
+    "levels": {
+      "level": {
+        "rounds": {
+          "round": [
+            {
+              "screens": {
+                "item": {
+                  "bins": {
+                    "bin": [
+                      {
+                        "title": "short <i>a</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "crack" },
+                            { "text": "splash" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>e</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "spent" },
+                            { "text": "head" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>i</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "drill" }
+                        }
+                      },
+                      {
+                        "title": "short <i>o</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "blond" }
+                        }
+                      },
+                      {
+                        "title": "short <i>u</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "strung" },
+                            { "text": "truck" }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "screens": {
+                "item": {
+                  "bins": {
+                    "bin": [
+                      {
+                        "title": "short <i>a</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "dance" },
+                            { "text": "flash" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>e</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "tent" },
+                            { "text": "well" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>i</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "myth" },
+                            { "text": "wink" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>o</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "odd" }
+                        }
+                      },
+                      {
+                        "title": "short <i>u</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "plus" }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "screens": {
+                "item": {
+                  "bins": {
+                    "bin": [
+                      {
+                        "title": "short <i>a</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "magnet" }
+                        }
+                      },
+                      {
+                        "title": "short <i>e</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "selfish" }
+                        }
+                      },
+                      {
+                        "title": "short <i>i</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": { "text": "lipstick" }
+                        }
+                      },
+                      {
+                        "title": "short <i>o</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "contest" },
+                            { "text": "nonstop" }
+                          ]
+                        }
+                      },
+                      {
+                        "title": "short <i>u</i>",
+                        "binType": { "value": "normal" },
+                        "contents": {
+                          "item": [
+                            { "text": "suntan" },
+                            { "text": "sunshine" },
+                            { "text": "shrug" }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

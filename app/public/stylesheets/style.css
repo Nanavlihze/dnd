@@ -1,0 +1,39 @@
+body {
+	background: url('../images/bg-yellow.png');
+	background-size: cover;
+}
+
+.navbar{
+	background: url('../images/167.jpg') center center no-repeat;
+	background-size: cover;	
+	height: 75px;
+	overflow: hidden;
+	box-shadow: 0px 5px 5px #ccc;
+}
+
+.navbar-brand {
+	padding: 0;
+	    font-weight: bold;
+    color: green;
+}
+
+.navbar-brand h3{	
+    font-weight: bold;
+    color: green;
+}
+
+.navbar a, .navbar a:focus, .navbar a:hover{
+	
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	background-color: transparent;
+	cursor: pointer;
+}
+
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
